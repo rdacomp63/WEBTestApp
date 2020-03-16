@@ -53,7 +53,7 @@
                 <div class="col-10">
                     <input class="form-control" type="text" name="phoneNumber"
                            value="<c:out value="${contact.phoneNumber}"/>" id="phoneNumber"
-                           placeholder="Course">
+                           placeholder="phoneNumber">
                 </div>
             </div>
 
